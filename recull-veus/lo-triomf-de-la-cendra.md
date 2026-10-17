@@ -1,0 +1,9 @@
+<u> *Lo* triomf de la cendra </u>
+
+La pujada era llarga i empinada, el cavall feia passos lents i feixucs, el cim del turó estava a tocar. La punta d’un *txop* va aparèixer, el cavaller s’hi apropava. El cavall caminava sense ja haver de pensar com moure les potes. El cavaller va mirar el vell *txop* que havia estat en els seus primers dies d’armes, en els primers dies d’amors i qui el va acomiadar quan marxava cap a la defensa del regne. 
+
+Ara encara l’esperava, mes marró i sec, sense vida. Un sentinella fidel que havia protegit el seu castell amb la seua vida. Va haver d’apartar la mirada cap a l’altra banda, on l’esperaven les vistes del seu poble natal. Un poble amb la seua muralla, la seua església i el seu campanar, les granges amb les millors botifarres de la contrada, tants llocs amb tants records. Mes ara era tot el poble un record, estava en silenci, ni les merles cantaven ni el vent de gregal s’atrevia a bufar. A davant de cada porta hi havia més d’una llitera amb algú embolcallat. Fantasmes que no havien pogut arribar al cementiri, ja ningú els hi podia portar. I d’altres sense tanta sort estaven caiguts pels carrers i cases amb taques de cendra en les extremitats i la pell.
+
+Havia guanyat la guerra a canvi de què? Ja no veuria més als amics, al mestre que li deia que havia d’aprendre a utilitzar la llança o poder gaudir d’un plat calent fet per sa germana. Tot això estava al passat. Les llegendes del ferrer, les rialles de la família; estaven al passat. Una pluja torrencial va començar a caure intentant emportar-se els fantasmes i el present. Mes una part d’ell es va quedar amb el *txop*, la terra i la gent que l’havia vist créixer.
+
+[<- 🚂 Tornar al Repositori Literari](./el-vago-de-ribes.md) | 📖 Anar a: [🥀 Els perfums evaporats ->](./els-perfums-evaporats.md)
