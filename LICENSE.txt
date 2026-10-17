@@ -1,0 +1,25 @@
+========================================================================
+TERMES DE LA LLICÈNCIA / TERMS OF LICENSE
+========================================================================
+
+© 2026 [Enginyera Filològica]. Tots els drets reservats.
+
+Aquesta llicència s'aplica a la totalitat del contingut d'aquest repositori, incloent-hi l'obra literària original (relats, prosa, memòries), el text del repte de l'idiolecte ("La simfonia de Ribes"), les anàlisis literàries aportades per l'autora.
+
+PROHIBICIÓ ABSOLUTA DE CÒPIA I REPRODUCCIÓ:
+Queda totalment prohibida qualsevol forma de reproducció, distribució, còpia, comunicació pública, modificació, traducció, transformació o allotjament d'aquests textos en qualsevol altra pàgina web, plataforma digital, base de dades o mitjà físic sense l'autorització; expressa, prèvia i per escrit de l'autora.
+
+ÚS EDITORIAL I COMERCIAL RESTRICTIU:
+Els drets sobre aquestes obres estan completament reservats. Queda prohibit l'ús d'aquests materials per a finalitats comercials, editorials o de mimetisme professional (com serveis de "Ghostwriter" o "literary doctor") sense un contracte legal signat per ambdues parts.
+
+------------------------------------------------------------------------
+
+© 2026 [Enginyera Filològica]. All rights reserved.
+
+This license applies to all the content within this repository, including the original literary work (stories, prose, memoirs), the idiolect challenge text ("La simfonia de Ribes"), the literary analyses provided by the authoress.
+
+ABSOLUTE PROHIBITION OF COPY AND REPRODUCTION:
+Any form of reproduction, distribution, copying, public communication, modification, translation, transformation, or hosting of these texts on any other website, digital platform, database, or physical medium is strictly prohibited without the authorization; express, prior and written permission of the author.
+
+RESTRICTIVE EDITORIAL AND COMMERCIAL USE:
+All rights to these works are fully reserved. The use of these materials for commercial, editorial, or professional mimicry purposes (such as Ghostwriter or "literary doctor" services) is strictly prohibited without a legal contract signed by both parties.
