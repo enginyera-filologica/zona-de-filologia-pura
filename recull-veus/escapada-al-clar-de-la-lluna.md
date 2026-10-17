@@ -8,4 +8,4 @@ La següent casa i ja arribo a la muralla. Vaig saltar a la casa, ja ho tenia. E
 
 Vaig flexionar-me i com un grill vaig saltar, vaig volar cap a la torre. Un guardià m’esperava, vaig projectar els peus cap endavant per caure dreta. Vaig caure sobre la seva cara, em vaig esperar uns moments així el cop és més fort. Llavors vaig saltar cap al bosc, la meva nova casa on uns udols em saludaven.
 
-[Tornar a: 🏢 Sense perdre un segon ->](./sense-perdre-un-segon.md) | [Anar a: 🌌 Escapada al clar de la lluna ->](./escapada-al-clar-de-la-lluna.md)
+[<-Tornar a: 🏢 Sense perdre un segon ](./sense-perdre-un-segon.md) | [ 🚂 Tornar al Repositori Literari ->](https://github.com/enginyera-filologica/zona-de-filologia-pura/blob/main/README.md)
