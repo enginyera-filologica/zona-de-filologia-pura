@@ -35,4 +35,4 @@ De fons es pot observar el terra d’un carrer, mostrant que és accessible per 
 
 L’objectiu de l’anunci és animar a que la gent deixi de fumar a partir de la il·lusió física i mental. Primer de veure un ull, després a la mental sentir-se observat i jutjat. Obligant de certa forma a deixar-ho.
 
-[<- Tornar al: Repositori Literari](README.md) | 📖 Anar a: [ Anàlisi psicològic de *La Ventafocs* ->](./ventafocs-psicologica.md)
+[<- Tornar al: Repositori Literari](zona-de-filologia-pura/README.md) | 📖 Anar a: [ Anàlisi psicològic de *La Ventafocs* ->](./ventafocs-psicologica.md)
