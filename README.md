@@ -1,7 +1,7 @@
-<img src="logoliteratura.png" align="right" width="120" style="margin-right: 20px;" />
+
 
 # 📚 La meua biblioteca digital
-
+<img src="logoliteratura.png" align="right" width="120" style="margin-right: 20px;" />
 Benvinguts a aquest espai de filologia i literatura al 100%. En aquest repositori recullo la meua vena literària i serveix com a testimoni del meu superpoder camaleònic amb la meua versatilitat com a escriptora multiveu, mimetitzar-me en diferents registres, situacions i estils textuals.
 
 El recull conté el **Repte Hackató**. Després hi ha un recull de fragments on mostro el meu camaleonisme en textos diferents entre ells que es pot aplicar en món editorial com a *Ghostwriter* o revisora editorial. Per últim, hi ha una mostra de la meua forma d'analitzar la literatura a partir de diversos fragments d'estudi literari.
