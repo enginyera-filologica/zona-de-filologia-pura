@@ -6,4 +6,4 @@ Ara encara l’esperava, mes marró i sec, sense vida. Un sentinella fidel que h
 
 Havia guanyat la guerra a canvi de què? Ja no veuria més als amics, al mestre que li deia que havia d’aprendre a utilitzar la llança o poder gaudir d’un plat calent fet per sa germana. Tot això estava al passat. Les llegendes del ferrer, les rialles de la família; estaven al passat. Una pluja torrencial va començar a caure intentant emportar-se els fantasmes i el present. Mes una part d’ell es va quedar amb el *txop*, la terra i la gent que l’havia vist créixer.
 
-[<- 🚂 Tornar al Repositori Literari](./el-vago-de-ribes.md) | 📖 Anar a: [🥀 Els perfums evaporats ->](./els-perfums-evaporats.md)
+[<- 🚂 Tornar al Repositori Literari](https://github.com/enginyera-filologica/zona-de-filologia-pura/blob/main/README.md) | 📖 Anar a: [🥀 Els perfums evaporats ->](./els-perfums-evaporats.md)
